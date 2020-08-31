@@ -1,6 +1,6 @@
 ### Hi there 👋
- 🔭 I’m currently working on TAL.
- 🌱 I’m currently learning PHP、Golang、Lua、C/C++.
+- 🔭 I’m currently working on TAL.
+- 🌱 I’m currently learning PHP、Golang、Lua、C/C++.
 <!--
 **crain-cn/crain-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
