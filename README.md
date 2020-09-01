@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 - 🔭 I’m currently working on TAL.
 - 🌱 I’m currently learning PHP、Golang、Lua、C/C++.
 <!--
