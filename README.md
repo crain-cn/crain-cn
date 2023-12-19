@@ -1,1 +1,1 @@
-[<img width="500" alt="🦑" src="./crain.svg">](#)
+[<img width="800" alt="🦑" src="./crain.svg">](#)
